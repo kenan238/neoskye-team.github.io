@@ -1,0 +1,27 @@
+baseURL = 'http://neoskye-team.github.io/'
+languageCode = 'en-us'
+title = 'Neoskye'
+theme = "ananke"
+resourceDir = "../resources"
+
+SectionPagesMenu = "main"
+googleAnalytics = ""
+Paginate = 10
+
+[sitemap]
+changefreq = "monthly"
+weight = 0.5
+filename = "sitemap.xml"
+
+[params]
+text_color = ""
+author = ""
+favicon = ""
+site_logo = ""
+description = "The best engine, when we finally finish it"
+background_color_class = "bg-black"
+recent_posts_number = 10
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/neoskye-team"
