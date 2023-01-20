@@ -1,6 +1,6 @@
 ---
 title: "About Us"
-description: "About our engine"
+description: "We, the people of Neoskye"
 featured_image: '/images/background-about.png'
 menu:
   main:
@@ -8,6 +8,8 @@ menu:
 ---
 
 Hey! We're the Neoskye team, consisting of
- [zTags](https://github.com/zTags),
-[Fl1pnatic](https://github.com/fl1pnatic)
+[zTags](https://github.com/zTags),  
+[Xeight](https://github.com/x8c8r), 
 and [BrokenCalculator14](https://github.com/BrokenCalculator14).
+
+Neoskye is a C++ engine, based on the [SFML](https://sfml-dev.org/) graphics framework.

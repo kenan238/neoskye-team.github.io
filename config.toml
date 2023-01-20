@@ -18,7 +18,7 @@ text_color = ""
 author = ""
 favicon = ""
 site_logo = ""
-description = "The best engine, when we finally finish it"
+description = "An opinionated, open-source, very cool game engine."
 background_color_class = "bg-black"
 recent_posts_number = 10
 
